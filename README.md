@@ -1,2 +1,3 @@
-# spectre-drivers
-Drivers for the spectre system
+# Spectre Drivers
+
+Drivers for the spectre system.
